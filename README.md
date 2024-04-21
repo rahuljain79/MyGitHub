@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 💬 Ask me about **C,SQl,Java,Html,Css,JavaScript**
+- 💬 Ask me about **C,Java, SQl, HTML, CSS, JavaScript**
 
 - 📫 How to reach me: **jainrahul7225@gmail.com**
 
@@ -22,8 +22,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 
 
 
