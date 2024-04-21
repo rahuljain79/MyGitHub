@@ -31,7 +31,8 @@
 
 
 
-![Rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnak77&theme=react&show_icons=true&hide_border=false&layout=compact)
+![Rahul's Top Languages][(https://github-readme-stats.vercel.app/api/top-langs/?username=Arnak77&theme=react&show_icons=true&hide_border=false&layout=compact&langs_count=5&exclude_repo=Arnak77
+)]
 
 ### Let's get in touch! 😄
 
