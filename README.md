@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Arnak77/Arnak77/assets/97283054/08125204-c579-42d0-9bb7-ddd80af28311)
 
-<h1 align="center">Hi 👋, I am Rahul jain</h1>
+<h1 align="center">Hi 👋, I am Rahul jain.</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Arnak77/Arnak77/assets/97283054/208462db-2046-4f5b-b96d-f4d685ca5c59">
